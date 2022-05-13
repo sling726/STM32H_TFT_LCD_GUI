@@ -1,5 +1,5 @@
 Application/User/Core/stm32h7xx_hal_msp.o: \
- C:/yk/03.demo/GUI_Demo/Core/Src/stm32h7xx_hal_msp.c \
+ C:/Users/123/Desktop/GUI_Test/Core/Src/stm32h7xx_hal_msp.c \
  ../../Core/Inc/main.h \
  ../../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal.h \
  ../../Core/Inc/stm32h7xx_hal_conf.h \

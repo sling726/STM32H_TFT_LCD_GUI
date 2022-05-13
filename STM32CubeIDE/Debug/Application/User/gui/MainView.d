@@ -1,5 +1,5 @@
 Application/User/gui/MainView.o: \
- C:/yk/03.demo/GUI_Demo/TouchGFX/gui/src/main_screen/MainView.cpp \
+ C:/Users/123/Desktop/GUI_Test/TouchGFX/gui/src/main_screen/MainView.cpp \
  ../../TouchGFX/gui/include/gui/main_screen/MainView.hpp \
  ../../TouchGFX/generated/gui_generated/include/gui_generated/main_screen/MainViewBase.hpp \
  ../../TouchGFX/gui/include/gui/common/FrontendApplication.hpp \

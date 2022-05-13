@@ -612,7 +612,7 @@ void StartDefaultTask(void *argument)
   /* Infinite loop */
   for(;;)
   {
-    osDelay(100);
+    osDelay(200);
   }
   /* USER CODE END 5 */
 }

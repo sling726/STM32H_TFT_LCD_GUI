@@ -1,6 +1,6 @@
 Drivers/BSP/STM32H735G-DK/stm32h735g_discovery_ospi.o: \
- C:/yk/03.demo/GUI_Demo/Drivers/BSP/STM32H735G-DK/stm32h735g_discovery_ospi.c \
- C:/yk/03.demo/GUI_Demo/Drivers/BSP/STM32H735G-DK/stm32h735g_discovery_ospi.h \
+ C:/Users/123/Desktop/GUI_Test/Drivers/BSP/STM32H735G-DK/stm32h735g_discovery_ospi.c \
+ C:/Users/123/Desktop/GUI_Test/Drivers/BSP/STM32H735G-DK/stm32h735g_discovery_ospi.h \
  ../../Core/Inc/stm32h735g_discovery_conf.h \
  ../../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal.h \
  ../../Core/Inc/stm32h7xx_hal_conf.h \
@@ -38,13 +38,13 @@ Drivers/BSP/STM32H735G-DK/stm32h735g_discovery_ospi.o: \
  ../../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_pwr_ex.h \
  ../../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_tim.h \
  ../../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_tim_ex.h \
- C:/yk/03.demo/GUI_Demo/Drivers/BSP/STM32H735G-DK/stm32h735g_discovery_errno.h \
- c:\yk\03.demo\gui_demo\drivers\bsp\components\mx25lm51245g\mx25lm51245g.h \
+ C:/Users/123/Desktop/GUI_Test/Drivers/BSP/STM32H735G-DK/stm32h735g_discovery_errno.h \
+ c:\users\123\desktop\gui_test\drivers\bsp\components\mx25lm51245g\mx25lm51245g.h \
  ../../Core/Inc/mx25lm51245g_conf.h \
- c:\yk\03.demo\gui_demo\drivers\bsp\components\s70kl1281\s70kl1281.h \
+ c:\users\123\desktop\gui_test\drivers\bsp\components\s70kl1281\s70kl1281.h \
  ../../Core/Inc/s70kl1281_conf.h
 
-C:/yk/03.demo/GUI_Demo/Drivers/BSP/STM32H735G-DK/stm32h735g_discovery_ospi.h:
+C:/Users/123/Desktop/GUI_Test/Drivers/BSP/STM32H735G-DK/stm32h735g_discovery_ospi.h:
 
 ../../Core/Inc/stm32h735g_discovery_conf.h:
 
@@ -120,12 +120,12 @@ C:/yk/03.demo/GUI_Demo/Drivers/BSP/STM32H735G-DK/stm32h735g_discovery_ospi.h:
 
 ../../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_tim_ex.h:
 
-C:/yk/03.demo/GUI_Demo/Drivers/BSP/STM32H735G-DK/stm32h735g_discovery_errno.h:
+C:/Users/123/Desktop/GUI_Test/Drivers/BSP/STM32H735G-DK/stm32h735g_discovery_errno.h:
 
-c:\yk\03.demo\gui_demo\drivers\bsp\components\mx25lm51245g\mx25lm51245g.h:
+c:\users\123\desktop\gui_test\drivers\bsp\components\mx25lm51245g\mx25lm51245g.h:
 
 ../../Core/Inc/mx25lm51245g_conf.h:
 
-c:\yk\03.demo\gui_demo\drivers\bsp\components\s70kl1281\s70kl1281.h:
+c:\users\123\desktop\gui_test\drivers\bsp\components\s70kl1281\s70kl1281.h:
 
 ../../Core/Inc/s70kl1281_conf.h:

@@ -1,6 +1,6 @@
 Drivers/BSP/STM32H735G-DK/stm32h735g_discovery_bus.o: \
- C:/yk/03.demo/GUI_Demo/Drivers/BSP/STM32H735G-DK/stm32h735g_discovery_bus.c \
- C:/yk/03.demo/GUI_Demo/Drivers/BSP/STM32H735G-DK/stm32h735g_discovery_bus.h \
+ C:/Users/123/Desktop/GUI_Test/Drivers/BSP/STM32H735G-DK/stm32h735g_discovery_bus.c \
+ C:/Users/123/Desktop/GUI_Test/Drivers/BSP/STM32H735G-DK/stm32h735g_discovery_bus.h \
  ../../Core/Inc/stm32h735g_discovery_conf.h \
  ../../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal.h \
  ../../Core/Inc/stm32h7xx_hal_conf.h \
@@ -38,9 +38,9 @@ Drivers/BSP/STM32H735G-DK/stm32h735g_discovery_bus.o: \
  ../../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_pwr_ex.h \
  ../../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_tim.h \
  ../../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_tim_ex.h \
- C:/yk/03.demo/GUI_Demo/Drivers/BSP/STM32H735G-DK/stm32h735g_discovery_errno.h
+ C:/Users/123/Desktop/GUI_Test/Drivers/BSP/STM32H735G-DK/stm32h735g_discovery_errno.h
 
-C:/yk/03.demo/GUI_Demo/Drivers/BSP/STM32H735G-DK/stm32h735g_discovery_bus.h:
+C:/Users/123/Desktop/GUI_Test/Drivers/BSP/STM32H735G-DK/stm32h735g_discovery_bus.h:
 
 ../../Core/Inc/stm32h735g_discovery_conf.h:
 
@@ -116,4 +116,4 @@ C:/yk/03.demo/GUI_Demo/Drivers/BSP/STM32H735G-DK/stm32h735g_discovery_bus.h:
 
 ../../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_tim_ex.h:
 
-C:/yk/03.demo/GUI_Demo/Drivers/BSP/STM32H735G-DK/stm32h735g_discovery_errno.h:
+C:/Users/123/Desktop/GUI_Test/Drivers/BSP/STM32H735G-DK/stm32h735g_discovery_errno.h:

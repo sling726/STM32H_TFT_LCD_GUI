@@ -1,5 +1,5 @@
 Application/User/generated/image_keyboard_key_highlighted.o: \
- C:/yk/03.demo/GUI_Demo/TouchGFX/generated/images/src/image_keyboard_key_highlighted.cpp \
+ C:/Users/123/Desktop/GUI_Test/TouchGFX/generated/images/src/image_keyboard_key_highlighted.cpp \
  ../../Middlewares/ST/touchgfx/framework/include/touchgfx/hal/Config.hpp
 
 ../../Middlewares/ST/touchgfx/framework/include/touchgfx/hal/Config.hpp:

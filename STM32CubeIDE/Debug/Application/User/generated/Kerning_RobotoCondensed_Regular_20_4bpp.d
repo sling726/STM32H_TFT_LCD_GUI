@@ -1,5 +1,5 @@
 Application/User/generated/Kerning_RobotoCondensed_Regular_20_4bpp.o: \
- C:/yk/03.demo/GUI_Demo/TouchGFX/generated/fonts/src/Kerning_RobotoCondensed_Regular_20_4bpp.cpp \
+ C:/Users/123/Desktop/GUI_Test/TouchGFX/generated/fonts/src/Kerning_RobotoCondensed_Regular_20_4bpp.cpp \
  ../../Middlewares/ST/touchgfx/framework/include/touchgfx/Font.hpp \
  ../../Middlewares/ST/touchgfx/framework/include/touchgfx/hal/Types.hpp \
  ../../Middlewares/ST/touchgfx/framework/include/touchgfx/hal/Config.hpp \

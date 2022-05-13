@@ -1,5 +1,5 @@
 Application/User/gui/Model.o: \
- C:/yk/03.demo/GUI_Demo/TouchGFX/gui/src/model/Model.cpp \
+ C:/Users/123/Desktop/GUI_Test/TouchGFX/gui/src/model/Model.cpp \
  ../../TouchGFX/gui/include/gui/model/Model.hpp \
  ../../Middlewares/ST/touchgfx/framework/include/touchgfx/Utils.hpp \
  ../../Middlewares/ST/touchgfx/framework/include/touchgfx/hal/Types.hpp \

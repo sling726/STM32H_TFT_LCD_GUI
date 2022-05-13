@@ -1,6 +1,6 @@
 Drivers/BSP/STM32H735G-DK/stm32h735g_discovery_ts.o: \
- C:/yk/03.demo/GUI_Demo/Drivers/BSP/STM32H735G-DK/stm32h735g_discovery_ts.c \
- C:/yk/03.demo/GUI_Demo/Drivers/BSP/STM32H735G-DK/stm32h735g_discovery_ts.h \
+ C:/Users/123/Desktop/GUI_Test/Drivers/BSP/STM32H735G-DK/stm32h735g_discovery_ts.c \
+ C:/Users/123/Desktop/GUI_Test/Drivers/BSP/STM32H735G-DK/stm32h735g_discovery_ts.h \
  ../../Core/Inc/stm32h735g_discovery_conf.h \
  ../../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal.h \
  ../../Core/Inc/stm32h7xx_hal_conf.h \
@@ -38,14 +38,14 @@ Drivers/BSP/STM32H735G-DK/stm32h735g_discovery_ts.o: \
  ../../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_pwr_ex.h \
  ../../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_tim.h \
  ../../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_tim_ex.h \
- C:/yk/03.demo/GUI_Demo/Drivers/BSP/STM32H735G-DK/stm32h735g_discovery_errno.h \
- c:\yk\03.demo\gui_demo\drivers\bsp\components\ft5336\ft5336.h \
- c:\yk\03.demo\gui_demo\drivers\bsp\components\ft5336\ft5336_reg.h \
+ C:/Users/123/Desktop/GUI_Test/Drivers/BSP/STM32H735G-DK/stm32h735g_discovery_errno.h \
+ c:\users\123\desktop\gui_test\drivers\bsp\components\ft5336\ft5336.h \
+ c:\users\123\desktop\gui_test\drivers\bsp\components\ft5336\ft5336_reg.h \
  ../../Core/Inc/ft5336_conf.h \
- c:\yk\03.demo\gui_demo\drivers\bsp\components\common\ts.h \
- C:/yk/03.demo/GUI_Demo/Drivers/BSP/STM32H735G-DK/stm32h735g_discovery_bus.h
+ c:\users\123\desktop\gui_test\drivers\bsp\components\common\ts.h \
+ C:/Users/123/Desktop/GUI_Test/Drivers/BSP/STM32H735G-DK/stm32h735g_discovery_bus.h
 
-C:/yk/03.demo/GUI_Demo/Drivers/BSP/STM32H735G-DK/stm32h735g_discovery_ts.h:
+C:/Users/123/Desktop/GUI_Test/Drivers/BSP/STM32H735G-DK/stm32h735g_discovery_ts.h:
 
 ../../Core/Inc/stm32h735g_discovery_conf.h:
 
@@ -121,14 +121,14 @@ C:/yk/03.demo/GUI_Demo/Drivers/BSP/STM32H735G-DK/stm32h735g_discovery_ts.h:
 
 ../../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_tim_ex.h:
 
-C:/yk/03.demo/GUI_Demo/Drivers/BSP/STM32H735G-DK/stm32h735g_discovery_errno.h:
+C:/Users/123/Desktop/GUI_Test/Drivers/BSP/STM32H735G-DK/stm32h735g_discovery_errno.h:
 
-c:\yk\03.demo\gui_demo\drivers\bsp\components\ft5336\ft5336.h:
+c:\users\123\desktop\gui_test\drivers\bsp\components\ft5336\ft5336.h:
 
-c:\yk\03.demo\gui_demo\drivers\bsp\components\ft5336\ft5336_reg.h:
+c:\users\123\desktop\gui_test\drivers\bsp\components\ft5336\ft5336_reg.h:
 
 ../../Core/Inc/ft5336_conf.h:
 
-c:\yk\03.demo\gui_demo\drivers\bsp\components\common\ts.h:
+c:\users\123\desktop\gui_test\drivers\bsp\components\common\ts.h:
 
-C:/yk/03.demo/GUI_Demo/Drivers/BSP/STM32H735G-DK/stm32h735g_discovery_bus.h:
+C:/Users/123/Desktop/GUI_Test/Drivers/BSP/STM32H735G-DK/stm32h735g_discovery_bus.h:
